@@ -1,0 +1,1 @@
+$ tail ~ /.ssh/id_rsa.pub - # FOR GETTING SSH ID
